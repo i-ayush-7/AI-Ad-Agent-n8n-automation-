@@ -2,7 +2,7 @@
 
 An automated AI Agent that turns a simple raw product photo into a professional advertisement in seconds. Built with **n8n**, **Google Gemini**, and **Telegram**.
 
-![Project Banner]()
+![Project Banner](https://github.com/i-ayush-7/AI-Ad-Agent-n8n-automation-/blob/main/AD%20AGENT.png)
 
 ## 🚀 What It Does
 1.  **Input:** User sends a raw product photo (e.g., keyboard, mug, watch) to the Telegram Bot.
