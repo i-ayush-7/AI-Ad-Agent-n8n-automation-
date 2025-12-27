@@ -73,4 +73,10 @@ return JSON.parse(cleanJson);
 https://image.pollinations.ai/prompt/{{ $json.prompt_for_image_generator }}
 ```
 
+## Telegram Message URL:
+
+```url
+https://api.telegram.org/bot<YOUR_BOT_TOKEN>/sendMessage?chat_id=<USER_CHAT_ID>&text=Please Subscribe
+```
+
 ## Project By: Ayush Shukla
